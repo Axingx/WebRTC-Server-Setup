@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 阿里云服务器上搭建WebRTC教程
 网页即时通信（Web Real-Time Communication），是一个支持网页浏览器进行实时语音对话或视频对话的API，一共需要搭建三个服务器
 
@@ -21,7 +22,7 @@
 1. 会话控制信息，用来开始和结束通话，即开始视频、结束视频这些操作指令。
 2. 发生错误时用来相互通告的消息
 3. 元数据，如各自的音视频解码方式、带宽。
-4. 网络数据，对方的公网IP、端口、内网IP及端口。
+4. 网络数据，对方的公网IP、端口、内网IP及端口。12
 
 ### 内网穿透服务器
 
@@ -394,3 +395,6 @@ ICE (Interactive Connectivity Establishment), 综合以上2种协议的综合性
 
 
 
+=======
+# WebRTC-Server-Setup
+>>>>>>> parent of 331f6cd... Update README.md
