@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 阿里云服务器上搭建WebRTC教程
 网页即时通信（Web Real-Time Communication），是一个支持网页浏览器进行实时语音对话或视频对话的API，一共需要搭建三个服务器
 
