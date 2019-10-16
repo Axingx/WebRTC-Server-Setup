@@ -391,9 +391,3 @@ ICE (Interactive Connectivity Establishment), 综合以上2种协议的综合性
     roomLink = roomLink.replace(/apprtc\.domain\.com\//, 'apprtc.domain.com:8083/');
         
     保存退出
-
-
-
-=======
-# WebRTC-Server-Setup
->>>>>>> parent of 331f6cd... Update README.md
