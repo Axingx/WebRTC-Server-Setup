@@ -391,3 +391,7 @@ ICE (Interactive Connectivity Establishment), 综合以上2种协议的综合性
     roomLink = roomLink.replace(/apprtc\.domain\.com\//, 'apprtc.domain.com:8083/');
         
     保存退出
+
+## License
+
+本项目基于 MIT License 开源，详情请参见 [LICENSE](./LICENSE)。
